@@ -4,7 +4,7 @@ Parses VS13MORT.DUSMCPUB file into CSV format with identifying header labels.
 
 
  READ THIS
-   This tools is NOT coded with safety, efficiency, or elegance in mind. Use at your own risk. 
+   This tool is NOT coded with safety, efficiency, or elegance in mind. Use at your own risk. 
 
  VS13MORT Parser.py
  Author tommaho
