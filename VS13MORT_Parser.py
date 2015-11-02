@@ -9,6 +9,10 @@
 # About
 #   Converts the 2013 Mortality file located here: http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
 #   to a CSV, based on data file documentation here: http://www.cdc.gov/nchs/data/dvs/Record_Layout_2013.pdf
+# Edits
+#
+# 11-2-2015
+#  - removed space from filename. 
 #
 # Directions
 #
